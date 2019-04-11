@@ -14,5 +14,3 @@ MAVEN_HOME=/opt/maven >> /etc/profile.d/maven.sh
 PATH=$PATH:$MAVEN_HOME/bin >> /etc/profile.d/maven.sh
 export PATH MAVEN_HOME >> /etc/profile.d/maven.sh
 EOF
-
-
